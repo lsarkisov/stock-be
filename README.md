@@ -2,7 +2,7 @@
 - from command line:
   
     
-    mvn spring-boot:run -Dspring-boot.run.arguments="--alphavantage.api.key=<YOUR API KEY>"
+    mvn spring-boot:run -Dspring-boot.run.arguments="--alphavantage.api.key=\<YOUR API KEY\>"
 
 - from IDE
 

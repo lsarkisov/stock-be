@@ -1,4 +1,5 @@
 #### If you want to run the project 
+
 - from command line:
   
     
@@ -9,3 +10,5 @@
     
     please, replace in application.properties alphavantage.api.key=${API_KEY}
     with your key
+    
+This project has a connection with `https://github.com/lsarkisov/stock-fe`
